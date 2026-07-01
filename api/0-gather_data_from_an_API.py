@@ -1,4 +1,10 @@
 #!/usr/bin/python3
+"""
+Fetch an employee's name and to-do task completion status from the API.
+
+Usage: python script_name.py <employee_id>
+"""
+
 import requests
 import sys
  
